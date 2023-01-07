@@ -149,7 +149,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "embassy"
+name = "emb_rs_example"
 version = "0.1.0"
 dependencies = [
  "critical-section",
